@@ -63,10 +63,10 @@ Develop SQL-based analytics and dashboards to generate actionable insights into:
 * Sales trends
 
 These insights help business stakeholders make informed, strategic decisions.
-📖 For further details, see [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+* 📖 For further details, see [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 ### 📂 Repository Structure
----
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw ERP and CRM datasets (CSV files)
@@ -90,6 +90,6 @@ data-warehouse-project/
 ├── LICENSE                             # Repository license information
 ├── .gitignore                          # Git ignore rules
 └── requirements.txt                    # Optional: dependencies or setup notes
---- 
+``` 
 ---
 
