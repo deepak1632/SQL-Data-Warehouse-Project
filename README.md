@@ -1,4 +1,4 @@
- # Data Warehouse and Analytics Project
+# Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse & Analytics Project**!
 This repository showcases a complete data warehousing and analytics solution — from designing and building the data warehouse to producing actionable business insights.
@@ -20,3 +20,25 @@ This repository demonstrates the end-to-end process of building a modern data wa
 * Data Modeling: Designing optimized fact and dimension tables for analytical workloads.
 * Analytics & Reporting: Creating SQL-based reports and dashboards that deliver actionable business insights.
 ---
+
+### 🔥 Who Should Explore This Project?
+This repository is a valuable showcase for students, professionals, and enthusiasts looking to demonstrate or develop expertise in:
+
+* SQL Development
+* Data Architecture
+* Data Engineering
+* ETL Pipeline Development
+* Data Modeling
+* Data Analytics
+---
+
+### 🛠️ Important Links & Tools
+Everything used in this project is free and open for learning purposes!
+
+* 📂 Datasets: Raw CSV files for ERP and CRM data used in the project.
+* 🖥️ **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server to host the SQL database.
+* 🛠️**[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** Graphical interface for managing and querying the database.
+* 🌐  **[Git Repository](https://github.com/):** Set up a GitHub account and repository to version, manage, and collaborate on your code.
+* **[DrawIO](https://www.drawio.com/):** Design data architectures, models, and process flows with clear diagrams.
+* 📋 **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Project template and task management to keep track of progress.
+* 📑 **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):**  Detailed breakdown of all phases and tasks of the project.
