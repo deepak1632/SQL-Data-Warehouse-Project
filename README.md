@@ -8,7 +8,15 @@ Built as a **portfolio project**, it demonstrates industry-standard best practic
 ### 🏗️ Data Architecture
 This project implements the Medallion Architecture with Bronze, Silver, and Gold layers to structure the data flow:
 
-1. Bronze Layer: Raw, unprocessed data as ingested from source systems. Here, data is loaded from CSV files into a SQL Server database.
-2. Silver Layer: Cleansed, standardized, and normalized data, prepared for analysis.
-3. Gold Layer: Business-ready, analytics-friendly data modeled in a star schema for reporting and insights.
+*  Bronze Layer: Raw, unprocessed data as ingested from source systems. Here, data is loaded from CSV files into a SQL Server database.
+*  Silver Layer: Cleansed, standardized, and normalized data, prepared for analysis.
+*  Gold Layer: Business-ready, analytics-friendly data modeled in a star schema for reporting and insights.
 ---   
+### 📖 Project Overview
+This repository demonstrates the end-to-end process of building a modern data warehouse and analytics solution, including:
+
+* Data Architecture: Designing and implementing the Medallion Architecture (Bronze, Silver, Gold).
+* ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+* Data Modeling: Designing optimized fact and dimension tables for analytical workloads.
+* Analytics & Reporting: Creating SQL-based reports and dashboards that deliver actionable business insights.
+---
