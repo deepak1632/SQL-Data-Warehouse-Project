@@ -36,7 +36,7 @@ This repository is a valuable showcase for students, professionals, and enthusia
 Everything used in this project is free and open for learning purposes!
 
 * 📂 Datasets: Raw CSV files for ERP and CRM data used in the project.
-* 🖥️ **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server to host the SQL database.
+* 🖥️ **[MYSQL]([https://www.mysql.com/]):** Lightweight server to host the SQL database.
 * 🛠️**[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** Graphical interface for managing and querying the database.
 * 🌐  **[Git Repository](https://github.com/):** Set up a GitHub account and repository to version, manage, and collaborate on your code.
 * 📝 **[DrawIO](https://www.drawio.com/):** Design data architectures, models, and process flows with clear diagrams.
