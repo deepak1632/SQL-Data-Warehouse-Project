@@ -63,7 +63,7 @@ Develop SQL-based analytics and dashboards to generate actionable insights into:
 * Sales trends
 
 These insights help business stakeholders make informed, strategic decisions.
-* 📖 For further details, see [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 ### 📂 Repository Structure
 ```
@@ -93,3 +93,8 @@ data-warehouse-project/
 ``` 
 ---
 
+### 🛡️ License
+This project is licensed under the MIT License.
+You are free to use, modify, and share this project with proper attribution.
+
+For full license details, see the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) file.
