@@ -98,3 +98,11 @@ This project is licensed under the MIT License.
 You are free to use, modify, and share this project with proper attribution.
 
 For full license details, see the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) file.
+---
+
+### 🌟 About Me
+Hi there! 👋
+I’m Deepak Jangra, a passionate Data Analyst and AI enthusiast, dedicated to making data insightful, actionable, and impactful.
+
+I enjoy building real-world projects, solving problems with data-driven solutions, and helping others understand and leverage the power of data analytics, machine learning, and technology. My mission is to contribute meaningful insights and grow as a professional in the field of AI, data science, and analytics.
+
