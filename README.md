@@ -8,17 +8,17 @@ Built as a **portfolio project**, it demonstrates industry-standard best practic
 ### 🏗️ Data Architecture
 This project implements the Medallion Architecture with Bronze, Silver, and Gold layers to structure the data flow:
 
-*  Bronze Layer: Raw, unprocessed data as ingested from source systems. Here, data is loaded from CSV files into a SQL Server database.
-*  Silver Layer: Cleansed, standardized, and normalized data, prepared for analysis.
-*  Gold Layer: Business-ready, analytics-friendly data modeled in a star schema for reporting and insights.
+*  **Bronze Layer**: Raw, unprocessed data as ingested from source systems. Here, data is loaded from CSV files into a SQL Server database.
+*  **Silver Layer**: Cleansed, standardized, and normalized data, prepared for analysis.
+*  **Gold Layer**: Business-ready, analytics-friendly data modeled in a star schema for reporting and insights.
 ---   
 ### 📖 Project Overview
 This repository demonstrates the end-to-end process of building a modern data warehouse and analytics solution, including:
 
-* Data Architecture: Designing and implementing the Medallion Architecture (Bronze, Silver, Gold).
-* ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-* Data Modeling: Designing optimized fact and dimension tables for analytical workloads.
-* Analytics & Reporting: Creating SQL-based reports and dashboards that deliver actionable business insights.
+* **Data Architecture**: Designing and implementing the Medallion Architecture (Bronze, Silver, Gold).
+* **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+* **Data Modeling**: Designing optimized fact and dimension tables for analytical workloads.
+* **Analytics & Reporting**: Creating SQL-based reports and dashboards that deliver actionable business insights.
 ---
 
 ### 🔥 Who Should Explore This Project?
@@ -48,9 +48,46 @@ Everything used in this project is free and open for learning purposes!
 ##### Objective
 Design and implement a modern data warehouse on SQL Server to consolidate sales data from ERP and CRM systems, enabling reliable analytical reporting and data-driven decisions.
 
-##### Specifications
+##### Specifications: 
 * **Data Sources**: Two CSV datasets (ERP & CRM).
 * **Data Quality**: Detect, cleanse, and resolve data quality issues before loading.
 * **Integration**: Merge data into a unified, analytics-friendly model.
 * **Scope**: Work with the most recent snapshot of data; no historization required.
 * **Documentation**: Provide clear and thorough documentation of the data model for stakeholders and analytics teams.
+---
+### 📊 BI: Analytics & Reporting (Data Analysis)
+#### Objective
+Develop SQL-based analytics and dashboards to generate actionable insights into:
+* Customer behavior
+* Product performance
+* Sales trends
+
+These insights help business stakeholders make informed, strategic decisions.
+📖 For further details, see [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+---
+### 📂 Repository Structure
+data-warehouse-project/
+│
+├── datasets/                           # Raw ERP and CRM datasets (CSV files)
+│
+├── docs/                               # Documentation and architecture diagrams
+│   ├── etl.drawio                      # ETL processes and techniques
+│   ├── data_architecture.drawio        # Overall data architecture diagram
+│   ├── data_catalog.md                 # Dataset catalog with field descriptions and metadata
+│   ├── data_flow.drawio                # Data flow diagram
+│   ├── data_models.drawio              # Star schema data models
+│   ├── naming-conventions.md           # Guidelines for consistent naming of objects
+│
+├── scripts/                            # SQL scripts for ETL and modeling
+│   ├── bronze/                         # Scripts for loading raw data
+│   ├── silver/                         # Scripts for data cleansing and transformation
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Data quality and validation scripts
+│
+├── README.md                           # Project overview and setup instructions
+├── LICENSE                             # Repository license information
+├── .gitignore                          # Git ignore rules
+└── requirements.txt                    # Optional: dependencies or setup notes
+--- 
+
