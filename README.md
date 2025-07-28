@@ -35,9 +35,9 @@ This repository is a valuable showcase for students, professionals, and enthusia
 ### 🛠️ Important Links & Tools
 Everything used in this project is free and open for learning purposes!
 
-* 📂 Datasets: Raw CSV files for ERP and CRM data used in the project.
-* 🖥️ **[MYSQL](https://www.mysql.com/):** Lightweight open-source server to host the MySQL database.
-* 🛠️ **[ MySQL Workbench](https://www.mysql.com/products/workbench/):** Graphical interface for managing, designing, and querying the MySQL database.
+* 📂 [Datasets](datasets/): Raw CSV files for ERP and CRM data used in the project.
+* 🖥️ **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
+* 🛠️ **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 * 🌐 **[Git Repository](https://github.com/):** Set up a GitHub account and repository to version, manage, and collaborate on your code.
 * 📝 **[DrawIO](https://www.drawio.com/):** Design data architectures, models, and process flows with clear diagrams.
 * 📋 **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Project template and task management to keep track of progress.
